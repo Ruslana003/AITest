@@ -1,8 +1,11 @@
+# Why does this for exist
+I want to compare perfomance of my own implementation to publicly availably ones
+
 # AIToolbox
 A toolbox of AI modules written in Swift:  Graphs/Trees, Linear Regression, Support Vector Machines, Neural Networks, PCA, KMeans, Genetic Algorithms, MDP, Mixture of Gaussians, Logistic Regression
 
 This framework uses the Accelerate library to speed up computations, except the Linux package versions.
-Written for Swift 3.0.  Earlier versions are Swift 2.2 compatible
+Written for Swift 3.1.  Earlier versions are Swift 2.2 compatible
 
 SVM ported from the public domain LIBSVM repository
 See https://www.csie.ntu.edu.tw/~cjlin/libsvm/ for more information
